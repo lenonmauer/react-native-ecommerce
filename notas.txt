@@ -1,0 +1,17 @@
+bottom navigator
+  ve se tem algum pronto
+  ve se usou withNavigation
+
+tabsnavigator
+  ve se tem algum pronto
+  ver como criar a line zueira
+
+detalhe do produto
+  como centralizar titulo
+
+
+box shadow do bottom navigator
+
+como colocar nome do produto e preço na mesma linha
+
+como formatar o preço
